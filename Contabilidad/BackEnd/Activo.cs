@@ -12,7 +12,11 @@ namespace BackEnd
         void CrearAsiento()
         {
             //Se agrega función para xccxcxc
+
+            //Se agrega nueva instrucción
+
             //Se modifica instrucción Anterior
+
         }
 
         void VerPasivos()
