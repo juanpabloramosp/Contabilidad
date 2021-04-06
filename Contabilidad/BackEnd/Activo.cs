@@ -13,5 +13,10 @@ namespace BackEnd
         {
 
         }
+
+        void VerPasivos()
+        {
+
+        }
     }
 }
