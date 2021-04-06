@@ -7,5 +7,9 @@ namespace BackEnd
     class Pasivo
     {
         public int PasivoId { get; set; }
+        void CrearAsiento()
+        {
+
+        }
     }
 }
