@@ -13,5 +13,10 @@ namespace BackEnd
         {
             //Se agrega función para xccxcxc
         }
+
+        void VerPasivos()
+        {
+
+        }
     }
 }
