@@ -6,5 +6,6 @@ namespace BackEnd
 {
     class Activo
     {
+        //Cambio en clase Activo
     }
 }
