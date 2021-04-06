@@ -9,5 +9,9 @@ namespace BackEnd
         //Cambio en clase Activo
 
         public int ActivoId { get; set; }
+        void CrearAsiento()
+        {
+
+        }
     }
 }
