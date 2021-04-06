@@ -7,5 +7,6 @@ namespace BackEnd
     class Activo
     {
         //Cambio en clase Activo
+        public string ActivoId { get; set; }
     }
 }
