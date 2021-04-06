@@ -11,7 +11,7 @@ namespace BackEnd
         public int ActivoId { get; set; }
         void CrearAsiento()
         {
-
+            //Se agrega función para xccxcxc
         }
     }
 }
